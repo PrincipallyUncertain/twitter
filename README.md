@@ -11,6 +11,7 @@ Python based Webscrapers (with shell script wrappers) to pull data from both the
 * You WILL NEED a Twitter account (free to set up).
 * You WILL NEED a Twitter developer API key to access this API.  [You can apply for either a free or premium one here](https://developer.twitter.com/en/apply-for-access).  The Premium one will need some justification (such as non-commercial research) to be granted.
 * You will need to replace the details of the configuration files in both the free or the Premium subdirectories with your credentials
+* Guidelines for queries to the [free](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html) and [premium](https://developer.twitter.com/en/docs/tweets/search/api-reference/premium-search) APIs.
 
 ## Acknowledgement
 * This software can be used for any non-commercial purpose as long as Patrick W. Zimmerman of [Principally Uncertain](https://principallyuncertain.com) is given credit for its creation.  
