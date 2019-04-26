@@ -1,0 +1,18 @@
+{
+  "consumer": {
+    "key": "",
+    "secret": "",
+    "access level": "",
+    "owner": "",
+    "owner ID": ""
+  },
+
+  "access": {
+    "token": "",
+    "secret": "",
+    "access level": "",
+    "owner": "",
+    "owner ID": ""
+  }
+
+}
